@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/direct"
+  to = "/docs/direct/introduction"
+  status = 302
+  force = false
