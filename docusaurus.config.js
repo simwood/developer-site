@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Simwood Developer',
-  tagline: 'Developer site for simwood products',
+  tagline: 'Developer site for Simwood products and services',
   url: 'https://developer.simwood.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
