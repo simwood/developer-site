@@ -60,7 +60,7 @@ You should see something like this:
 
 Congratulations - you have successfully made your first request to the Sipcentric API!
 
-Ready to get creative? [Continue to full documentation...](/api/v1)
+Ready to get creative? [Continue to full documentation...](/docs/direct/api/v1)
 
 ## Getting Help
 
