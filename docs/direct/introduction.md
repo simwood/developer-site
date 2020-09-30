@@ -10,7 +10,7 @@ The current stable version is v1 and is located at:
 https://pbx.sipcentric.com/api/v1
 ```
 
-Because the API follows many common REST design patterns, it is extremely easy to get started and is for the most part, self-documenting. Full documentation for this version, however, can be found [here](/api/v1).
+Because the API follows many common REST design patterns, it is extremely easy to get started and is for the most part, self-documenting. Full documentation for this version, however, can be found [here](/docs/direct/api/v1).
 
 ## Example Uses
 
