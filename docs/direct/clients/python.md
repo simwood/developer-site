@@ -1,18 +1,11 @@
-Project home and source code over on [GitHub](https://github.com/sipcentric/sc-lib-python)
+[![PyPI version](https://badge.fury.io/py/nimvelo.svg)](https://badge.fury.io/py/nimvelo)
+
+We have a Python 2.7 client library for the Nimvelo/Sipcentric API. The package can be found on [PyPI](https://pypi.org/project/nimvelo/), and the project/code on [GitHub](https://github.com/Nimvelo/python-client). Please raise any issues on GitHub and pull requests are also accepted.
+
+Refer to the [README.md](https://github.com/Nimvelo/python-client#readme) on GitHub for examples and reference.
 
 ## Install
 
-### Best method
-
-    sudo pip install sipcentric
-
-### Manual method
-
-    git clone git@github.com:sipcentric/sc-lib-python.git && cd sc-lib-python
-    sudo python setup.py install
-
-## Examples
-
-    import sipcentric
-    sms = sipcentric.sms(username="",password="")
-    print sms.send(originator="0123", recipient="01212854400", message="Hello World!")
+```
+pip install nimvelo
+```

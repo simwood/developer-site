@@ -13,7 +13,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Clients',
-        items: ['direct/clients/go', 'direct/clients/python'],
+        items: ['direct/clients/node', 'direct/clients/python', 'direct/clients/go'],
       },
     ],
   },
