@@ -54,11 +54,11 @@ module.exports = {
               href: 'https://twitter.com/SimwoodeSMS',
             },
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/simwood',
+              label: 'Community Slack',
+              href: 'https://simwoodcommunity.slack.com',
             },
             {
-              label: 'Slack Signup',
+              label: 'Community Slack Signup',
               href: 'https://docs.google.com/forms/d/e/1FAIpQLSdARUKFPPmY840UezuYboOD5N_yahGLcxly2TbulyKfjIqR9Q/viewform',
             },
           ],

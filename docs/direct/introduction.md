@@ -64,6 +64,4 @@ Ready to get creative? [Continue to full documentation...](/docs/direct/api/v1)
 
 ## Getting Help
 
-We have a developer group over on [Google Groups](https://groups.google.com/forum/#!forum/sipcentric-developers), where you can ask questions and share ideas.
-
-You can also chat with us on [irc.freenode.net](http://webchat.freenode.net/?channels=sipcentric) #sipcentric
+Email us at <support@sipcentric.com> or join the [Community Slack](https://simwoodcommunity.slack.com) (*sign up required [here](https://docs.google.com/forms/d/e/1FAIpQLSdARUKFPPmY840UezuYboOD5N_yahGLcxly2TbulyKfjIqR9Q/viewform)*).
