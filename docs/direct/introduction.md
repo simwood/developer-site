@@ -1,3 +1,8 @@
+---
+id: introduction
+title: Introduction
+---
+
 The [Sipcentric PBX](http://www.sipcentric.com/) is a cloud-based service which enables businesses of all shapes and sizes to create a fully-featured, virtual PBX in minutes - allowing them to scale up or down instantly as their needs change and without commitment.
 
 The Developer API, based around [REST](http://en.wikipedia.org/wiki/Representational_state_transfer) principles, allows users to interact with core features of the Sipcentric PBX platform and integrate with their own applications. The API makes it possible to programmatically manage features, query data and perform more interesting things such as initiating calls, sending text messages and hooking into specific real-time events and notifications (perfect for [screen popping](http://en.wikipedia.org/wiki/Screen_pop)).
