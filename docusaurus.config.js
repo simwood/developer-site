@@ -18,12 +18,12 @@ module.exports = {
       items: [
         {
           to: 'docs/direct/introduction',
-          label: 'Direct',
+          label: 'Hosted PBX',
           position: 'left',
         },
         {
-          to: 'docs/wholesale',
-          label: 'Wholesale',
+          to: 'docs/wholesale/introduction',
+          label: 'Carrier Services',
           position: 'left',
         },
       ],
@@ -36,12 +36,12 @@ module.exports = {
           items: [
             {
               to: 'docs/direct/introduction',
-              label: 'Direct',
+              label: 'Hosted PBX',
               position: 'left',
             },
             {
-              to: 'docs/wholesale',
-              label: 'Wholesale',
+              to: 'docs/wholesale/introduction',
+              label: 'Carrier Services',
               position: 'left',
             },
           ],
