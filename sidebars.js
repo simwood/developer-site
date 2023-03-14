@@ -30,7 +30,7 @@ const sidebars = {
    */
 
   someSidebar: {
-    Direct: [
+    "Hosted PBX": [
       {
         type: 'doc',
         id: 'direct/introduction',
@@ -46,6 +46,19 @@ const sidebars = {
         items: ['direct/clients/node', 'direct/clients/python', 'direct/clients/go'],
       },
     ],
+    
+   "Carrier Services": [
+      {
+        type: 'doc',
+        id: 'wholesale/introduction',
+      },
+      {
+        type: 'category',
+        label: 'APIs',
+        items: ['wholesale/api/v3.20'],
+      },
+    ]
+
   },
 };
 
