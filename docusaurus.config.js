@@ -72,12 +72,12 @@ const config = {
         items: [
           {
             to: 'docs/direct/introduction',
-            label: 'Direct',
+            label: 'Hosted PBX',
             position: 'left',
           },
           {
             to: 'docs/wholesale',
-            label: 'Wholesale',
+            label: 'Carrier Services',
             position: 'left',
           },
         ],
@@ -90,12 +90,12 @@ const config = {
             items: [
               {
                 to: 'docs/direct/introduction',
-                label: 'Direct',
+                label: 'Hosted PBX',
                 position: 'left',
               },
               {
                 to: 'docs/wholesale',
-                label: 'Wholesale',
+                label: 'Carrier Services',
                 position: 'left',
               },
             ],
