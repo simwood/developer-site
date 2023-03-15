@@ -26,8 +26,16 @@ sh set_creds.sh
 simple explanation is; we have created a script set_cred.sh inside the current directory,and we have run it. when you run it, its going to create a file(if non existent) .bashrc inside your home directory. and add the two environmental variables for username and password 
 
 verify that the variables are set.
-`echo $CARRIER_API_PASSWORD`
+```bash
+echo $CARRIER_API_PASSWORD
+echo $CARRIER_API_USERNAME
+```
 this command should display the `username_from_simwood` as assigned in the script above.
 
+
+
+<br />
+<br />
+<br />
 
 This is a work in progress.... will be updated soon. 
