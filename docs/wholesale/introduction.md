@@ -2,10 +2,16 @@
 id: introduction
 title: Introduction
 ---
+## Customer API documentation
+This documentation is available as pdf and you can grab it from below.
+
+- [v3.19.1 ](https://cdn.simwood.com/docs/simwood_apiv3.pdf) (PDF)
+- [v3.2.0](coming soon)
 
 #### setting enviromental variables for running API's
 
 1. write the script below. please get your API username and password from simwood. 
+
 `vi set_creds.sh`
 
 ```bash
