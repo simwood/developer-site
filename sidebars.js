@@ -55,7 +55,7 @@ const sidebars = {
       {
         type: 'category',
         label: 'APIs',
-        items: ['wholesale/api/v3.20'],
+        items: ['wholesale/api/v3'],
       },
       {
         type: 'category',
