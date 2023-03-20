@@ -137,12 +137,12 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Simwood eSMS Limited.`,
       },
-      // algolia: {
-      //   appId: '03WV4K4Z17',
-      //   apiKey: 'c19a7c387457fbdf4cfcb2d5aaa50991',
-      //   indexName: 'simwood',
-      //   searchParameters: {}, // Optional (if provided by Algolia)
-      // },
+      algolia: {
+        appId: '03WV4K4Z17',
+        apiKey: 'c19a7c387457fbdf4cfcb2d5aaa50991',
+        indexName: 'simwood',
+        searchParameters: {}, // Optional (if provided by Algolia)
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
