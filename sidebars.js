@@ -57,11 +57,6 @@ const sidebars = {
         label: 'APIs',
         items: ['wholesale/api/v3'],
       },
-      {
-        type: 'category',
-        label: 'walkthroutghs',
-        items: ['wholesale/walkthroughs/new_trunk_config'],
-      },
     ]
 
   },
