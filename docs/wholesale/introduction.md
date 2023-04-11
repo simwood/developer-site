@@ -9,7 +9,7 @@ This documentation is available as pdf and you can grab it from below.
 
 #### setting enviromental variables for running API's
 
-1. You can set the endironmental varibales as below depending on what environment you are using. You can get your API username and password from simwood. Please keep this information secure becuase it can be used to make changes to your account and eventually cost you. Make sure you are setting these variables on a machine you can trust or you own.
+1. You can set the environmental varibales as below depending on what environment you are using. You can get your API username and password from simwood. Please keep this information secure becuase it can be used to make changes to your account and eventually cost you. Make sure you are setting these variables on a machine you can trust or you own.
 
 For linux environment, please run the commands below.
 
