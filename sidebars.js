@@ -48,10 +48,10 @@ const sidebars = {
     ],
     
    "Carrier Services": [
-      {
+     /* {
         type: 'doc',
         id: 'wholesale/introduction',
-      },
+      },*/
       {
         type: 'category',
         label: 'APIs',
