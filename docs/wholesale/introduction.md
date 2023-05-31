@@ -2,28 +2,23 @@
 id: introduction
 title: Introduction
 ---
+## Customer API documentation
+This documentation is available as pdf and you can grab it from below.
+
+- [v3](https://cdn.simwood.com/docs/simwood_apiv3.pdf) (PDF)
 
 #### setting enviromental variables for running API's
 
-1. write the script below. please get your API username and password from simwood. 
-`vi set_creds.sh`
+1. You can set the environmental varibales as below depending on what environment you are using. You can get your API username and password from simwood. Please keep this information secure becuase it can be used to make changes to your account and eventually cost you. Make sure you are setting these variables on a machine you can trust or you own.
+
+For linux environment, please run the commands below.
 
 ```bash
-echo "export CARRIER_API_USERNAME='username_from_simwood'" >> ~/.bashrc
-echo "export CARRIER_API_PASSWORD='password_from_simwood'" >> ~/.bashrc
+export CARRIER_API_USERNAME='username_from_simwood'
+export CARRIER_API_PASSWORD='password_from_simwood'
 ```
 
-2. run script using command below
-```bash
-sh set_creds.sh
-```
-
-3. Make changes permanent
-```bash
-. ~/.bashrc
-```
-
-simple explanation is; we have created a script set_cred.sh inside the current directory,and we have run it. when you run it, its going to create a file(if non existent) .bashrc inside your home directory. and add the two environmental variables for username and password 
+You can consider adding the above to .bashrc if you want them saved permanently, so that they are still available after you logout or restart your computer.
 
 verify that the variables are set.
 ```bash
@@ -37,5 +32,3 @@ this command should display the `username_from_simwood` as assigned in the scrip
 <br />
 <br />
 <br />
-
-This is a work in progress.... will be updated soon. 

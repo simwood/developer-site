@@ -88,7 +88,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'docs/wholesale/introduction',
+            to: 'docs/wholesale/api/v3',
             label: 'Carrier Services',
             position: 'left',
           },
@@ -106,7 +106,7 @@ const config = {
                 position: 'left',
               },
               {
-                to: 'docs/wholesale/introduction',
+                to: 'docs/wholesale/api/v3',
                 label: 'Carrier Services',
                 position: 'left',
               },
