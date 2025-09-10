@@ -69,4 +69,4 @@ Ready to get creative? [Continue to full documentation...](/docs/direct/api/v1)
 
 ## Getting Help
 
-Email us at <support@sipcentric.com> or join the [Community Slack](https://simwoodcommunity.slack.com) (*sign up required, contact us to join*).
+Email us at <support@sipcentric.com> or join the [Community Slack](https://simwoodcommunity.slack.com) (*[sign up](https://simwood.typeform.com/to/Tf0ZVuYN) required*).

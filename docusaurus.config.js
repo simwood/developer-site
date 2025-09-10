@@ -125,7 +125,7 @@ const config = {
               },
               {
                 label: 'Community Slack Signup',
-                href: 'https://docs.google.com/forms/d/e/1FAIpQLSdARUKFPPmY840UezuYboOD5N_yahGLcxly2TbulyKfjIqR9Q/viewform',
+                href: 'https://simwood.typeform.com/to/Tf0ZVuYN',
               },
             ],
           },
