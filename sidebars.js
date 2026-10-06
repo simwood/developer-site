@@ -57,6 +57,11 @@ const sidebars = {
         label: 'APIs',
         items: ['wholesale/api/v3'],
       },
+      {
+        type: 'category',
+        label: 'SIP Extensions',
+        items: ['wholesale/sip_extensions/v1.2'],
+      },
     ]
 
   },
